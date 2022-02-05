@@ -13,7 +13,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res.tl.004_image4.jpg]({{< resource_file 05cd4267-0477-2dcf-2adb-50f9d6fd3341 >}}) |  {{< br >}}{{< br >}} To determine whether or not a system is at equilibrium, we must understand how a system's equilibrium state is constrained by its boundary and surroundings. {{< br >}}{{< br >}} _Image by Chris French, and Krista Shapton for Vecna Cares.  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res.tl.004_image4.jpg]({{< resource_file 05cd4267-0477-2dcf-2adb-50f9d6fd3341 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+To determine whether or not a system is at equilibrium, we must understand how a system's equilibrium state is constrained by its boundary and surroundings.
+
+_Image by Chris French, and Krista Shapton for Vecna Cares.  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "1d043581-7256-fa29-ca4f-15acce3e863c" >}}
 

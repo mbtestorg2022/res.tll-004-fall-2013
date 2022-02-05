@@ -16,7 +16,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res.tl.004_image9.jpg]({{< resource_file b706d765-29c5-a475-610b-0cea6d9a483b >}}) |  {{< br >}}{{< br >}} Scientists, engineers, and architects must devise solutions to open-ended problems with technical and non-technical dimensions. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French.  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res.tl.004_image9.jpg]({{< resource_file b706d765-29c5-a475-610b-0cea6d9a483b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Scientists, engineers, and architects must devise solutions to open-ended problems with technical and non-technical dimensions.
+
+_Image by Krista Shapton for Vecna Cares, and Chris French.  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "9b39fef0-8a7d-ea34-0e55-30b48721109e" >}}
 

@@ -17,7 +17,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res-tl-004-image10.jpg]({{< resource_file 4209ede0-8f4e-4e3f-daad-366c79700c93 >}}) |  {{< br >}}{{< br >}} Information can be represented in words, through mathematical symbols, graphically, or in 3-D models. Representations are used to develop a deeper and more flexible understanding of objects, systems, and processes. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French.  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res-tl-004-image10.jpg]({{< resource_file 4209ede0-8f4e-4e3f-daad-366c79700c93 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Information can be represented in words, through mathematical symbols, graphically, or in 3-D models. Representations are used to develop a deeper and more flexible understanding of objects, systems, and processes.
+
+_Image by Krista Shapton for Vecna Cares, and Chris French.  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "4ec91b67-3de8-013f-630b-c65bd58d63b0" >}}
 

@@ -11,7 +11,24 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res-tl-004s13-image1.jpg]({{< resource_file 244beeea-4fe5-2f1f-4883-bfb09e46dfd3 >}})  |  {{< br >}}{{< br >}} Successful professional communication begins with the ability to analyze situational variables and make strategic decisions. {{< br >}}{{< br >}} Image by Chris French. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res-tl-004s13-image1.jpg]({{< resource_file 244beeea-4fe5-2f1f-4883-bfb09e46dfd3 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Successful professional communication begins with the ability to analyze situational variables and make strategic decisions.
+
+Image by Chris French.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "d7a76512-aa4a-9913-9523-149a8c527e95" >}}
 

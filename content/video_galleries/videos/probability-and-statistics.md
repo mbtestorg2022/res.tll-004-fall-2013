@@ -14,7 +14,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res.tl.004_image8.jpg]({{< resource_file 76a54c50-1874-a4e0-3e17-668bcf08a94b >}}) |  {{< br >}}{{< br >}} Many events and phenomena are probabilistic. Engineers, designers, and architects often use probability distributions to predict system behavior. {{< br >}}{{< br >}} _Image by Chris French.  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res.tl.004_image8.jpg]({{< resource_file 76a54c50-1874-a4e0-3e17-668bcf08a94b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Many events and phenomena are probabilistic. Engineers, designers, and architects often use probability distributions to predict system behavior.
+
+_Image by Chris French.  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "a0c7838a-f9cd-dcf2-a8b0-7bc9d6fc46d0" >}}
 

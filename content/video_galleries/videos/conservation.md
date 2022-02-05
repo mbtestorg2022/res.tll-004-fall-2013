@@ -12,7 +12,24 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res-tl-004f13-image12.jpg]({{< resource_file 295b945e-b749-f632-1776-94c17ad00bce >}}) |  {{< br >}}{{< br >}} In order to analyze or modify a system, it is important to understand how the laws of conservation place constraints on that system. {{< br >}}{{< br >}} Image by Ink Design, Inc. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res-tl-004f13-image12.jpg]({{< resource_file 295b945e-b749-f632-1776-94c17ad00bce >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In order to analyze or modify a system, it is important to understand how the laws of conservation place constraints on that system.
+
+Image by Ink Design, Inc.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "a8a8f424-8fc2-57db-3740-6b1dff82bf3e" >}}
 

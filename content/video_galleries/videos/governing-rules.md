@@ -15,7 +15,24 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res_tl_004_image5.jpg]({{< resource_file 7482a485-a5b1-95eb-3f4f-6aaddf2f867d >}}) |  {{< br >}}{{< br >}} A small number of rules describe the physical and chemical interactions that are possible in our universe. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Ink Design, Inc._ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res_tl_004_image5.jpg]({{< resource_file 7482a485-a5b1-95eb-3f4f-6aaddf2f867d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A small number of rules describe the physical and chemical interactions that are possible in our universe.
+
+_Image by Krista Shapton for Vecna Cares, and Ink Design, Inc._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "5c800495-c618-099d-4802-9286b0d45a90" >}}
 

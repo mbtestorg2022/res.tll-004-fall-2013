@@ -15,7 +15,24 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res_tl_004_image3.jpg]({{< resource_file 0d2fa613-f172-97c8-176a-0aa03f93b907 >}}) |  {{< br >}}{{< br >}} Differential equations model changing properties in engineering systems. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French._ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res_tl_004_image3.jpg]({{< resource_file 0d2fa613-f172-97c8-176a-0aa03f93b907 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Differential equations model changing properties in engineering systems.
+
+_Image by Krista Shapton for Vecna Cares, and Chris French._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4" >}}
 

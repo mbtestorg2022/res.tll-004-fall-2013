@@ -14,7 +14,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res.tl.004_image7.jpg]({{< resource_file 35c2a44b-809a-d39d-6f90-640e1635453f >}}) |  {{< br >}}{{< br >}} Many complex systems are modeled or approximated linearly because of the mathematical advantages. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French.  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res.tl.004_image7.jpg]({{< resource_file 35c2a44b-809a-d39d-6f90-640e1635453f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Many complex systems are modeled or approximated linearly because of the mathematical advantages.
+
+_Image by Krista Shapton for Vecna Cares, and Chris French.  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "408da444-4ea5-a84d-94db-f30ef2be5696" >}}
 

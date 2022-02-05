@@ -13,7 +13,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res.tl.004_image6.jpg]({{< resource_file 8bb745ae-390c-9b5f-b528-b6bf71fb1628 >}})  |  {{< br >}}{{< br >}} This video is part of the Information Flow video series. A system is shaped and changed by the nature and flow of information into, within, and out of the system. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French.  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res.tl.004_image6.jpg]({{< resource_file 8bb745ae-390c-9b5f-b528-b6bf71fb1628 >}}) 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This video is part of the Information Flow video series. A system is shaped and changed by the nature and flow of information into, within, and out of the system.
+
+_Image by Krista Shapton for Vecna Cares, and Chris French.  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "d7d35752-0244-2e35-07f0-770dd52a9b88" >}}
 

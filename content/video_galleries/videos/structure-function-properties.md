@@ -13,7 +13,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res.tl.004_image11.jpg]({{< resource_file b9a34816-bbc6-3c1b-74a7-a95a4b5c8f4e >}}) |  {{< br >}}{{< br >}} The structure, function, and properties of a system are related and depend on the processes that define or create the system. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French.  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res.tl.004_image11.jpg]({{< resource_file b9a34816-bbc6-3c1b-74a7-a95a4b5c8f4e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The structure, function, and properties of a system are related and depend on the processes that define or create the system.
+
+_Image by Krista Shapton for Vecna Cares, and Chris French.  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "5c73ad5d-a665-9efe-f8ba-e6338c5eee3b" >}}
 

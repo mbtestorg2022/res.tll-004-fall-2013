@@ -13,7 +13,25 @@ videos:
   website: res-tll-004-stem-concept-videos-fall-2013
 ---
 
-| ![res-tl-004-image2.jpg]({{< resource_file cd2a7234-98f5-eeb9-25f0-9e2b37a6cc8f >}}) |  {{< br >}}{{< br >}} Derivatives describe the dependencies of change in a system. Integrals help quantify changing properties. {{< br >}}{{< br >}} _Image by Krista Shapton for Vecna Cares, and Chris French  {{< br >}}_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![res-tl-004-image2.jpg]({{< resource_file cd2a7234-98f5-eeb9-25f0-9e2b37a6cc8f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Derivatives describe the dependencies of change in a system. Integrals help quantify changing properties.
+
+_Image by Krista Shapton for Vecna Cares, and Chris French  
+_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< video-gallery "ee1c17b9-3698-e35b-3fca-8ea85cec751a" >}}
 
