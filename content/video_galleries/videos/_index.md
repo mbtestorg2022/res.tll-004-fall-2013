@@ -46,7 +46,7 @@ Successful professional communication begins with the ability to analyze situati
 {{< tdopen >}}
 
 
-*   [15.279 Management Communication](/courses/15-279-management-communication-for-undergraduates-fall-2012/)
+*   [15.279 Management Communication](/courses/15-279-management-communication-for-undergraduates-fall-2012)
 
 
 {{< tdclose >}}
@@ -69,7 +69,7 @@ In order to analyze or modify a system, it is important to understand how the la
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -86,8 +86,8 @@ In order to analyze or modify a system, it is important to understand how the la
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
-*   [3.091 Introduction to Solid State Chemistry](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+*   [3.091 Introduction to Solid State Chemistry](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010)
 
 
 {{< tdclose >}}
@@ -128,7 +128,7 @@ Derivatives describe the dependencies of change in a system. Integrals help quan
 
 
 *   8.02SC Physics II: Electricity and Magnetism
-*   [18.01SC Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010/)
+*   [18.01SC Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010)
 
 
 {{< tdclose >}}
@@ -146,7 +146,7 @@ Derivatives describe the dependencies of change in a system. Integrals help quan
 
 
 *   8.01SC Physics I: Classical Mechanics
-*   [18.01 Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010/)
+*   [18.01 Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010)
 
 
 {{< tdclose >}}
@@ -169,7 +169,7 @@ Differential equations model changing properties in engineering systems.
 {{< tdopen >}}
 
 
-*   [18.03 Differential Equations](/courses/18-03sc-differential-equations-fall-2011/)
+*   [18.03 Differential Equations](/courses/18-03sc-differential-equations-fall-2011)
 
 
 {{< tdclose >}}
@@ -186,7 +186,7 @@ Differential equations model changing properties in engineering systems.
 {{< tdopen >}}
 
 
-*   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)
+*   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
 *   [8.02SC Physics II](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/pages/readings)
 
 
@@ -204,7 +204,7 @@ Differential equations model changing properties in engineering systems.
 {{< tdopen >}}
 
 
-*   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)
+*   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
 *   [8.02SC Physics II](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/pages/readings)
 
 
@@ -222,7 +222,7 @@ Differential equations model changing properties in engineering systems.
 {{< tdopen >}}
 
 
-*   [18.02SC Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)
+*   [18.02SC Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
 *   [8.02SC Physics II: Electricity and Magnetism](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/pages/readings)
 
 
@@ -240,8 +240,8 @@ Differential equations model changing properties in engineering systems.
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
-*   [5.60 Thermodynamics & Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+*   [5.60 Thermodynamics & Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008)
 
 
 {{< tdclose >}}
@@ -281,7 +281,7 @@ To determine whether or not a system is at equilibrium, we must understand how a
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -298,7 +298,7 @@ To determine whether or not a system is at equilibrium, we must understand how a
 {{< tdopen >}}
 
 
-*   [3.00 Thermodynamics of Materials](/courses/3-00-thermodynamics-of-materials-fall-2002/)
+*   [3.00 Thermodynamics of Materials](/courses/3-00-thermodynamics-of-materials-fall-2002)
 
 
 {{< tdclose >}}
@@ -322,7 +322,7 @@ A small number of rules describe the physical and chemical interactions that are
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -356,7 +356,7 @@ A small number of rules describe the physical and chemical interactions that are
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -414,7 +414,7 @@ This video is part of the Information Flow video series. A system is shaped and 
 {{< tdopen >}}
 
 
-*   [6.00SC Introduction to Computer Science and Programming](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+*   [6.00SC Introduction to Computer Science and Programming](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011)
 
 
 {{< tdclose >}}
@@ -431,7 +431,7 @@ This video is part of the Information Flow video series. A system is shaped and 
 {{< tdopen >}}
 
 
-*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011/)
+*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)
 
 
 {{< tdclose >}}
@@ -448,7 +448,7 @@ This video is part of the Information Flow video series. A system is shaped and 
 {{< tdopen >}}
 
 
-*   [6.002 Circuits and Electronics](/courses/6-002-circuits-and-electronics-spring-2007/)
+*   [6.002 Circuits and Electronics](/courses/6-002-circuits-and-electronics-spring-2007)
 
 
 {{< tdclose >}}
@@ -471,8 +471,8 @@ Many complex systems are modeled or approximated linearly because of the mathema
 {{< tdopen >}}
 
 
-*   [18.06SC Linear Algebra](/courses/18-06sc-linear-algebra-fall-2011/)
-*   [2.007 Design and Manufacturing I](/courses/2-007-design-and-manufacturing-i-spring-2009/)
+*   [18.06SC Linear Algebra](/courses/18-06sc-linear-algebra-fall-2011)
+*   [2.007 Design and Manufacturing I](/courses/2-007-design-and-manufacturing-i-spring-2009)
 
 
 {{< tdclose >}}
@@ -489,8 +489,8 @@ Many complex systems are modeled or approximated linearly because of the mathema
 {{< tdopen >}}
 
 
-*   [18.01 Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010/)
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [18.01 Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -507,8 +507,8 @@ Many complex systems are modeled or approximated linearly because of the mathema
 {{< tdopen >}}
 
 
-*   [18.06SC Linear Algebra](/courses/18-06sc-linear-algebra-fall-2011/)
-*   [2.003SC Engineering Dynamics](/courses/2-003sc-engineering-dynamics-fall-2011/)
+*   [18.06SC Linear Algebra](/courses/18-06sc-linear-algebra-fall-2011)
+*   [2.003SC Engineering Dynamics](/courses/2-003sc-engineering-dynamics-fall-2011)
 
 
 {{< tdclose >}}
@@ -525,8 +525,8 @@ Many complex systems are modeled or approximated linearly because of the mathema
 {{< tdopen >}}
 
 
-*   [2.086 Numerical Computation for Mechanical Engineers](/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/)
-*   [18.03 Differential Equations](/courses/18-03sc-differential-equations-fall-2011/)
+*   [2.086 Numerical Computation for Mechanical Engineers](/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012)
+*   [18.03 Differential Equations](/courses/18-03sc-differential-equations-fall-2011)
 
 
 {{< tdclose >}}
@@ -549,7 +549,7 @@ Many events and phenomena are probabilistic. Engineers, designers, and architect
 {{< tdopen >}}
 
 
-*   [18.05 Introduction to Probability and Statistics](/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+*   [18.05 Introduction to Probability and Statistics](/courses/18-05-introduction-to-probability-and-statistics-spring-2014)
 
 
 {{< tdclose >}}
@@ -566,7 +566,7 @@ Many events and phenomena are probabilistic. Engineers, designers, and architect
 {{< tdopen >}}
 
 
-*   [18.05 Introduction to Probability and Statistics](/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+*   [18.05 Introduction to Probability and Statistics](/courses/18-05-introduction-to-probability-and-statistics-spring-2014)
 
 
 {{< tdclose >}}
@@ -583,8 +583,8 @@ Many events and phenomena are probabilistic. Engineers, designers, and architect
 {{< tdopen >}}
 
 
-*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011/)
-*   [7.03 Genetics](/courses/7-03-genetics-fall-2004/)
+*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)
+*   [7.03 Genetics](/courses/7-03-genetics-fall-2004)
 
 
 {{< tdclose >}}
@@ -601,7 +601,7 @@ Many events and phenomena are probabilistic. Engineers, designers, and architect
 {{< tdopen >}}
 
 
-*   [18.05 Introduction to Probability and Statistics](/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+*   [18.05 Introduction to Probability and Statistics](/courses/18-05-introduction-to-probability-and-statistics-spring-2014)
 
 
 {{< tdclose >}}
@@ -641,7 +641,7 @@ Scientists, engineers, and architects must devise solutions to open-ended proble
 {{< tdopen >}}
 
 
-*   [6.055J The Art of Approximation in Science and Engineering](/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/)
+*   [6.055J The Art of Approximation in Science and Engineering](/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008)
 
 
 {{< tdclose >}}
@@ -658,7 +658,7 @@ Scientists, engineers, and architects must devise solutions to open-ended proble
 {{< tdopen >}}
 
 
-*   [6.00SC Introduction to Computer Science and Programming](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+*   [6.00SC Introduction to Computer Science and Programming](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011)
 
 
 {{< tdclose >}}
@@ -692,7 +692,7 @@ Scientists, engineers, and architects must devise solutions to open-ended proble
 {{< tdopen >}}
 
 
-*   [2.971 2nd Summer Introduction to Design](/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/)
+*   [2.971 2nd Summer Introduction to Design](/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003)
 
 
 {{< tdclose >}}
@@ -709,7 +709,7 @@ Scientists, engineers, and architects must devise solutions to open-ended proble
 {{< tdopen >}}
 
 
-*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011/)
+*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)
 
 
 {{< tdclose >}}
@@ -749,7 +749,7 @@ Information can be represented in words, through mathematical symbols, graphical
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -767,7 +767,7 @@ Information can be represented in words, through mathematical symbols, graphical
 
 
 *   8.02SC Physics II: Electricity and Magnetism
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -801,7 +801,7 @@ Information can be represented in words, through mathematical symbols, graphical
 {{< tdopen >}}
 
 
-*   [18.02SC Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)
+*   [18.02SC Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
 *   [8.01SC Physics I: Classical Mechanics](/courses/8-01sc-classical-mechanics-fall-2016)
 
 
@@ -819,7 +819,7 @@ Information can be represented in words, through mathematical symbols, graphical
 {{< tdopen >}}
 
 
-*   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/)
+*   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
 *   8.02SC Physics II
 
 
@@ -837,7 +837,7 @@ Information can be represented in words, through mathematical symbols, graphical
 {{< tdopen >}}
 
 
-*   [2.003SC Engineering Dynamics](/courses/2-003sc-engineering-dynamics-fall-2011/)
+*   [2.003SC Engineering Dynamics](/courses/2-003sc-engineering-dynamics-fall-2011)
 
 
 {{< tdclose >}}
@@ -860,7 +860,7 @@ The structure, function, and properties of a system are related and depend on th
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
@@ -877,7 +877,7 @@ The structure, function, and properties of a system are related and depend on th
 {{< tdopen >}}
 
 
-*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011/)
+*   [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)
 
 
 {{< tdclose >}}
@@ -894,7 +894,7 @@ The structure, function, and properties of a system are related and depend on th
 {{< tdopen >}}
 
 
-*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008/)
+*   [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
 
 
 {{< tdclose >}}
